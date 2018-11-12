@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Products &#8211; test_site</title>
+	<atom:link href="http://localhost/test_site/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/test_site</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 24 Sep 2018 21:24:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Google Home Mini</title>
+		<link>http://localhost/test_site/product/google-home-mini/</link>
+		<comments>http://localhost/test_site/product/google-home-mini/#respond</comments>
+		<pubDate>Mon, 24 Sep 2018 20:50:42 +0000</pubDate>
+		<dc:creator><![CDATA[AditiPawaskar]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/test_site/</guid>
+		<description><![CDATA[Whether it is to get answers from Google, controlling your home entertainment, or viewing your day&#8217;s schedule &#8211; the compact Google Home Mini acts as your personal assistant and makes your life easier. All you have to do is say “Ok Google” and the built-in Google Assistant is ready to be of service to you.]]></description>
+				<content:encoded><![CDATA[<div class="_1QrSNG">
+<div class="_3u-uqB">Whether it is to get answers from Google, controlling your home entertainment, or viewing your day&#8217;s schedule &#8211; the compact Google Home Mini acts as your personal assistant and makes your life easier. All you have to do is say “Ok Google” and the built-in Google Assistant is ready to be of service to you.</div>
+</div>
+<div class="_38NXIU">
+<div class="_3LyGPp _2briKY">
+<div>
+<div></div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://localhost/test_site/product/google-home-mini/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Amazon Echo</title>
+		<link>http://localhost/test_site/product/amazon-echo/</link>
+		<comments>http://localhost/test_site/product/amazon-echo/#respond</comments>
+		<pubDate>Mon, 24 Sep 2018 11:44:59 +0000</pubDate>
+		<dc:creator><![CDATA[AditiPawaskar]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/test_site/</guid>
+		<description><![CDATA[Amazon Echo is a hands-free smart speaker that you control using your voice. It connects to Alexa – a cloud based voice service to play music, make calls, check weather and news, set alarms, control smart home devices, and much more. Echo has powerful speakers that fill the room with immersive 360° omnidirectional audio, and deliver &#8230;<p class="read-more"> <a class="" href="http://localhost/test_site/product/amazon-echo/"> <span class="screen-reader-text">Amazon Echo</span>Read More &#187;</a></p>]]></description>
+				<content:encoded><![CDATA[<p><span class="a-list-item">Amazon Echo is a hands-free smart speaker that you control using your voice. It connects to Alexa – a cloud based voice service to play music, make calls, check weather and news, set alarms, control smart home devices, and much more. </span><span class="a-list-item">Echo has powerful speakers that fill the room with immersive 360° omnidirectional audio, and deliver crisp vocals and dynamic bass response.</span></p>
+]]></content:encoded>
+			<wfw:commentRss>http://localhost/test_site/product/amazon-echo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Google Home</title>
+		<link>http://localhost/test_site/product/google-home/</link>
+		<comments>http://localhost/test_site/product/google-home/#respond</comments>
+		<pubDate>Mon, 24 Sep 2018 11:33:58 +0000</pubDate>
+		<dc:creator><![CDATA[AditiPawaskar]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/test_site/</guid>
+		<description><![CDATA[Google Home speakers enable users to speak voice commands to interact with services through Google&#8217;s intelligent personal assistant called Google Assistant. A large number of services, both in-house and third-party, are integrated, allowing users to listen to music, control playback of videos or photos, or receive news updates entirely by voice. Google Home devices also &#8230;<p class="read-more"> <a class="" href="http://localhost/test_site/product/google-home/"> <span class="screen-reader-text">Google Home</span>Read More &#187;</a></p>]]></description>
+				<content:encoded><![CDATA[<p>Google Home speakers enable users to speak voice commands to interact with services through Google&#8217;s intelligent personal assistant called Google Assistant. A large number of services, both in-house and third-party, are integrated, allowing users to listen to music, control playback of videos or photos, or receive news updates entirely by voice. Google Home devices also have integrated support for home automation, letting users control smart home appliances with their voice. Multiple Google Home devices can be placed in different rooms in a home for synchronized playback of music.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://localhost/test_site/product/google-home/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,446 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.34 (Win32) OpenSSL/1.1.0i PHP/7.2.9
+MySQL version 		: 5.5.5
+PHP Version 		: 7.2.9
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 11:11:46 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 11:11:47 UTC
+
+---
+
+2. Importing "XML"  - 11:11:52 UTC
+Imported "Primary" (nav_menu)
+Term 6 remapped to 2
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Imported "section" (elementor_library_type)
+Term 8 remapped to 3
+Imported "astra" (Custom CSS)
+Post 5 remapped to 8
+Imported "HOME" (Navigation Menu Item)
+Post 22 remapped to 22
+Processing menu item post_type
+Imported "Contact Form 1" (Contact Form)
+Post 85 remapped to 85
+Imported "astra" (Custom CSS)
+Post 88 remapped to 88
+Imported "About" (Page)
+Post 193 remapped to 193
+Imported "ABOUT" (Navigation Menu Item)
+Post 209 remapped to 209
+Processing menu item post_type
+Menu item 193 mapped to 193
+Imported "Services" (Page)
+Post 217 remapped to 217
+Imported "SERVICES" (Navigation Menu Item)
+Post 220 remapped to 220
+Processing menu item post_type
+Menu item 217 mapped to 217
+Imported "Our Staff" (Page)
+Post 230 remapped to 230
+Imported "OUR STAFF" (Navigation Menu Item)
+Post 233 remapped to 233
+Processing menu item post_type
+Menu item 230 mapped to 230
+Imported "Contact Form 2" (Contact Form)
+Post 282 remapped to 282
+Imported "Home" (Page)
+Post 355 remapped to 355
+Imported "Logo-free-img" (Media)
+Post 360 remapped to 360
+Imported "CTA" (Template)
+Post 448 remapped to 448
+Imported "Services" (Template)
+Post 450 remapped to 450
+Imported "car-free-img" (Media)
+Post 480 remapped to 480
+Imported "Favicon-free-img" (Media)
+Post 482 remapped to 482
+Imported "Service-rowBG-free-img" (Media)
+Post 484 remapped to 484
+Imported "Service1-free-img" (Media)
+Post 485 remapped to 485
+Imported "Service2-free-img" (Media)
+Post 486 remapped to 486
+Imported "Service3-free-img" (Media)
+Post 487 remapped to 487
+Imported "Service4-free-img" (Media)
+Post 488 remapped to 488
+Imported "Service5-free-img" (Media)
+Post 489 remapped to 489
+Imported "Service6-free-img" (Media)
+Post 490 remapped to 490
+Imported "car_logo-@2xfree-img" (Media)
+Post 492 remapped to 492
+Imported "wallet-grey-free-img" (Media)
+Post 499 remapped to 499
+Imported "air-conditioning-free-img" (Media)
+Post 500 remapped to 500
+Imported "air-conditioning-grey-free-img" (Media)
+Post 501 remapped to 501
+Imported "alloy-wheel-free-img" (Media)
+Post 502 remapped to 502
+Imported "alloy-wheel-grey-free-img" (Media)
+Post 503 remapped to 503
+Imported "fix-skills-free-img" (Media)
+Post 504 remapped to 504
+Imported "fix-skills-grey-free-img" (Media)
+Post 505 remapped to 505
+Imported "mechanic-free-img" (Media)
+Post 506 remapped to 506
+Imported "mechanic-grey-free-img" (Media)
+Post 507 remapped to 507
+Imported "speedometer-free-img" (Media)
+Post 508 remapped to 508
+Imported "speedometer-grey-free-img" (Media)
+Post 509 remapped to 509
+Imported "wallet-free-img" (Media)
+Post 510 remapped to 510
+Imported "Car-testimonial-free-img" (Media)
+Post 512 remapped to 512
+Imported "about-image3-free-img" (Media)
+Post 514 remapped to 514
+Imported "about-image1-free-img" (Media)
+Post 515 remapped to 515
+Imported "about-image2-free-img" (Media)
+Post 516 remapped to 516
+Imported "Footer-Logo-free-img" (Media)
+Post 522 remapped to 522
+Imported "Page Header" (Template)
+Post 550 remapped to 550
+Imported "Services-Part1" (Template)
+Post 561 remapped to 561
+Imported "Testimonials" (Template)
+Post 591 remapped to 591
+Imported "About" (Template)
+Post 598 remapped to 598
+Imported "Ownership-free-img" (Media)
+Post 601 remapped to 601
+Imported "Staff4-free-img" (Media)
+Post 616 remapped to 616
+Imported "Staff5-free-img" (Media)
+Post 617 remapped to 617
+Imported "Staff1-free-img" (Media)
+Post 618 remapped to 618
+Imported "Staff2-free-img" (Media)
+Post 619 remapped to 619
+Imported "Contact" (Page)
+Post 649 remapped to 649
+Imported "CONTACT" (Navigation Menu Item)
+Post 654 remapped to 654
+Processing menu item post_type
+Menu item 649 mapped to 649
+Imported "Icon1-free-img" (Media)
+Post 665 remapped to 665
+Imported "Icon2-free-img" (Media)
+Post 668 remapped to 668
+Imported "Icon3-free-img" (Media)
+Post 671 remapped to 671
+Imported "Icon4-free-img" (Media)
+Post 672 remapped to 672
+Imported "Header-RowBG-free-img" (Media)
+Post 701 remapped to 701
+Imported "Yost-SEO-facebook--car-repair-elementor-free-img" (Media)
+Post 703 remapped to 703
+Imported "CTA-new" (Template)
+Post 735 remapped to 735
+Running post-processing for post 8
+Could not find the author for "astra" (post #8)
+Post 8 was imported with author "komalg", but could not be found
+Post 8 was marked for post-processing, but none was required.
+Running post-processing for post 22
+Could not find the author for "HOME" (post #22)
+Post 22 was imported with author "komalg", but could not be found
+Post 22 was marked for post-processing, but none was required.
+Running post-processing for post 85
+Could not find the author for "Contact Form 1" (post #85)
+Post 85 was imported with author "komalg", but could not be found
+Post 85 was marked for post-processing, but none was required.
+Running post-processing for post 88
+Could not find the author for "astra" (post #88)
+Post 88 was imported with author "komalg", but could not be found
+Post 88 was marked for post-processing, but none was required.
+Running post-processing for post 193
+Could not find the author for "About" (post #193)
+Post 193 was imported with author "komalg", but could not be found
+Post 193 was marked for post-processing, but none was required.
+Running post-processing for post 209
+Could not find the author for "ABOUT" (post #209)
+Post 209 was imported with author "komalg", but could not be found
+Post 209 was marked for post-processing, but none was required.
+Running post-processing for post 217
+Could not find the author for "Services" (post #217)
+Post 217 was imported with author "komalg", but could not be found
+Post 217 was marked for post-processing, but none was required.
+Running post-processing for post 220
+Could not find the author for "SERVICES" (post #220)
+Post 220 was imported with author "komalg", but could not be found
+Post 220 was marked for post-processing, but none was required.
+Running post-processing for post 230
+Could not find the author for "Our Staff" (post #230)
+Post 230 was imported with author "komalg", but could not be found
+Post 230 was marked for post-processing, but none was required.
+Running post-processing for post 233
+Could not find the author for "OUR STAFF" (post #233)
+Post 233 was imported with author "komalg", but could not be found
+Post 233 was marked for post-processing, but none was required.
+Running post-processing for post 282
+Could not find the author for "Contact Form 2" (post #282)
+Post 282 was imported with author "komalg", but could not be found
+Post 282 was marked for post-processing, but none was required.
+Running post-processing for post 355
+Could not find the author for "Home" (post #355)
+Post 355 was imported with author "komalg", but could not be found
+Post 355 was marked for post-processing, but none was required.
+Running post-processing for post 360
+Could not find the author for "Logo-free-img" (post #360)
+Post 360 was imported with author "komalg", but could not be found
+Post 360 was marked for post-processing, but none was required.
+Running post-processing for post 448
+Could not find the author for "CTA" (post #448)
+Post 448 was imported with author "komalg", but could not be found
+Post 448 was marked for post-processing, but none was required.
+Running post-processing for post 450
+Could not find the author for "Services" (post #450)
+Post 450 was imported with author "komalg", but could not be found
+Post 450 was marked for post-processing, but none was required.
+Running post-processing for post 480
+Could not find the author for "car-free-img" (post #480)
+Post 480 was imported with author "komalg", but could not be found
+Post 480 was marked for post-processing, but none was required.
+Running post-processing for post 482
+Could not find the author for "Favicon-free-img" (post #482)
+Post 482 was imported with author "komalg", but could not be found
+Post 482 was marked for post-processing, but none was required.
+Running post-processing for post 484
+Could not find the author for "Service-rowBG-free-img" (post #484)
+Post 484 was imported with author "komalg", but could not be found
+Post 484 was marked for post-processing, but none was required.
+Running post-processing for post 485
+Could not find the author for "Service1-free-img" (post #485)
+Post 485 was imported with author "komalg", but could not be found
+Post 485 was marked for post-processing, but none was required.
+Running post-processing for post 486
+Could not find the author for "Service2-free-img" (post #486)
+Post 486 was imported with author "komalg", but could not be found
+Post 486 was marked for post-processing, but none was required.
+Running post-processing for post 487
+Could not find the author for "Service3-free-img" (post #487)
+Post 487 was imported with author "komalg", but could not be found
+Post 487 was marked for post-processing, but none was required.
+Running post-processing for post 488
+Could not find the author for "Service4-free-img" (post #488)
+Post 488 was imported with author "komalg", but could not be found
+Post 488 was marked for post-processing, but none was required.
+Running post-processing for post 489
+Could not find the author for "Service5-free-img" (post #489)
+Post 489 was imported with author "komalg", but could not be found
+Post 489 was marked for post-processing, but none was required.
+Running post-processing for post 490
+Could not find the author for "Service6-free-img" (post #490)
+Post 490 was imported with author "komalg", but could not be found
+Post 490 was marked for post-processing, but none was required.
+Running post-processing for post 492
+Could not find the author for "car_logo-@2xfree-img" (post #492)
+Post 492 was imported with author "komalg", but could not be found
+Post 492 was marked for post-processing, but none was required.
+Running post-processing for post 499
+Could not find the author for "wallet-grey-free-img" (post #499)
+Post 499 was imported with author "komalg", but could not be found
+Post 499 was marked for post-processing, but none was required.
+Running post-processing for post 500
+Could not find the author for "air-conditioning-free-img" (post #500)
+Post 500 was imported with author "komalg", but could not be found
+Post 500 was marked for post-processing, but none was required.
+Running post-processing for post 501
+Could not find the author for "air-conditioning-grey-free-img" (post #501)
+Post 501 was imported with author "komalg", but could not be found
+Post 501 was marked for post-processing, but none was required.
+Running post-processing for post 502
+Could not find the author for "alloy-wheel-free-img" (post #502)
+Post 502 was imported with author "komalg", but could not be found
+Post 502 was marked for post-processing, but none was required.
+Running post-processing for post 503
+Could not find the author for "alloy-wheel-grey-free-img" (post #503)
+Post 503 was imported with author "komalg", but could not be found
+Post 503 was marked for post-processing, but none was required.
+Running post-processing for post 504
+Could not find the author for "fix-skills-free-img" (post #504)
+Post 504 was imported with author "komalg", but could not be found
+Post 504 was marked for post-processing, but none was required.
+Running post-processing for post 505
+Could not find the author for "fix-skills-grey-free-img" (post #505)
+Post 505 was imported with author "komalg", but could not be found
+Post 505 was marked for post-processing, but none was required.
+Running post-processing for post 506
+Could not find the author for "mechanic-free-img" (post #506)
+Post 506 was imported with author "komalg", but could not be found
+Post 506 was marked for post-processing, but none was required.
+Running post-processing for post 507
+Could not find the author for "mechanic-grey-free-img" (post #507)
+Post 507 was imported with author "komalg", but could not be found
+Post 507 was marked for post-processing, but none was required.
+Running post-processing for post 508
+Could not find the author for "speedometer-free-img" (post #508)
+Post 508 was imported with author "komalg", but could not be found
+Post 508 was marked for post-processing, but none was required.
+Running post-processing for post 509
+Could not find the author for "speedometer-grey-free-img" (post #509)
+Post 509 was imported with author "komalg", but could not be found
+Post 509 was marked for post-processing, but none was required.
+Running post-processing for post 510
+Could not find the author for "wallet-free-img" (post #510)
+Post 510 was imported with author "komalg", but could not be found
+Post 510 was marked for post-processing, but none was required.
+Running post-processing for post 512
+Could not find the author for "Car-testimonial-free-img" (post #512)
+Post 512 was imported with author "komalg", but could not be found
+Post 512 was marked for post-processing, but none was required.
+Running post-processing for post 514
+Could not find the author for "about-image3-free-img" (post #514)
+Post 514 was imported with author "komalg", but could not be found
+Post 514 was marked for post-processing, but none was required.
+Running post-processing for post 515
+Could not find the author for "about-image1-free-img" (post #515)
+Post 515 was imported with author "komalg", but could not be found
+Post 515 was marked for post-processing, but none was required.
+Running post-processing for post 516
+Could not find the author for "about-image2-free-img" (post #516)
+Post 516 was imported with author "komalg", but could not be found
+Post 516 was marked for post-processing, but none was required.
+Running post-processing for post 522
+Could not find the author for "Footer-Logo-free-img" (post #522)
+Post 522 was imported with author "komalg", but could not be found
+Post 522 was marked for post-processing, but none was required.
+Running post-processing for post 550
+Could not find the author for "Page Header" (post #550)
+Post 550 was imported with author "komalg", but could not be found
+Post 550 was marked for post-processing, but none was required.
+Running post-processing for post 561
+Could not find the author for "Services-Part1" (post #561)
+Post 561 was imported with author "komalg", but could not be found
+Post 561 was marked for post-processing, but none was required.
+Running post-processing for post 591
+Could not find the author for "Testimonials" (post #591)
+Post 591 was imported with author "komalg", but could not be found
+Post 591 was marked for post-processing, but none was required.
+Running post-processing for post 598
+Could not find the author for "About" (post #598)
+Post 598 was imported with author "komalg", but could not be found
+Post 598 was marked for post-processing, but none was required.
+Running post-processing for post 601
+Could not find the author for "Ownership-free-img" (post #601)
+Post 601 was imported with author "komalg", but could not be found
+Post 601 was marked for post-processing, but none was required.
+Running post-processing for post 616
+Could not find the author for "Staff4-free-img" (post #616)
+Post 616 was imported with author "komalg", but could not be found
+Post 616 was marked for post-processing, but none was required.
+Running post-processing for post 617
+Could not find the author for "Staff5-free-img" (post #617)
+Post 617 was imported with author "komalg", but could not be found
+Post 617 was marked for post-processing, but none was required.
+Running post-processing for post 618
+Could not find the author for "Staff1-free-img" (post #618)
+Post 618 was imported with author "komalg", but could not be found
+Post 618 was marked for post-processing, but none was required.
+Running post-processing for post 619
+Could not find the author for "Staff2-free-img" (post #619)
+Post 619 was imported with author "komalg", but could not be found
+Post 619 was marked for post-processing, but none was required.
+Running post-processing for post 649
+Could not find the author for "Contact" (post #649)
+Post 649 was imported with author "komalg", but could not be found
+Post 649 was marked for post-processing, but none was required.
+Running post-processing for post 654
+Could not find the author for "CONTACT" (post #654)
+Post 654 was imported with author "komalg", but could not be found
+Post 654 was marked for post-processing, but none was required.
+Running post-processing for post 665
+Could not find the author for "Icon1-free-img" (post #665)
+Post 665 was imported with author "komalg", but could not be found
+Post 665 was marked for post-processing, but none was required.
+Running post-processing for post 668
+Could not find the author for "Icon2-free-img" (post #668)
+Post 668 was imported with author "komalg", but could not be found
+Post 668 was marked for post-processing, but none was required.
+Running post-processing for post 671
+Could not find the author for "Icon3-free-img" (post #671)
+Post 671 was imported with author "komalg", but could not be found
+Post 671 was marked for post-processing, but none was required.
+Running post-processing for post 672
+Could not find the author for "Icon4-free-img" (post #672)
+Post 672 was imported with author "komalg", but could not be found
+Post 672 was marked for post-processing, but none was required.
+Running post-processing for post 701
+Could not find the author for "Header-RowBG-free-img" (post #701)
+Post 701 was imported with author "komalg", but could not be found
+Post 701 was marked for post-processing, but none was required.
+Running post-processing for post 703
+Could not find the author for "Yost-SEO-facebook&#8211;car-repair-elementor-free-img" (post #703)
+Post 703 was imported with author "komalg", but could not be found
+Post 703 was marked for post-processing, but none was required.
+Running post-processing for post 735
+Could not find the author for "CTA-new" (post #735)
+Post 735 was imported with author "komalg", but could not be found
+Post 735 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 11:13:45 UTC
+
+---
+
+4. Importing "Widgets"  - 11:13:49 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists
+Sidebar: header-widget
+Widget: "SiteOrigin Button" - Imported
+Sidebar: advanced-footer-widget-1
+Widget: "Image" - Imported
+Widget: "Text" - Imported
+Widget: "SiteOrigin Social Media Buttons" - Imported
+Sidebar: advanced-footer-widget-2
+Widget: "Text" - Imported
+Widget: "Text" - Imported
+Sidebar: advanced-footer-widget-3
+Widget: "Text" - Imported
+Widget: "Custom HTML" - Imported
+Sidebar: advanced-footer-widget-4
+Widget: "Text" - Imported
+Widget: "Text" - Imported
+
+---
+
+Import Complete!  - 11:13:53 UTC
